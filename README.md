@@ -1,10 +1,12 @@
-### Hi there 👋
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-sajal&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=me-sajal&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
+- 👋 Hi, I’m Sajal from Lalitpur, Nepal.
+- 👀 I’m interested in software development and machine learning.
+- 🌱 I’m currently learning ML for the computer vision, robotics and cyber security.
+- 📫 contact - sajalrokka321@gmail.com
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats-me-sajal.vercel.app/api?username=naween321&count_private=true&show_icons=true&theme=tokyonight" alt="naween321"/>
+  <img align="right" src="https://github-readme-stats-me-sajal.vercel.app/api/top-langs/?username=naween321&theme=tokyonight&hide_langs_below=1"/>
+</p>
 <!--
 **me-sajal/me-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
