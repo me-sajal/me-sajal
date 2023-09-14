@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning ML for the computer vision, robotics and cyber security.
 - 📫 contact - sajalrokka321@gmail.com
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats-me-sajal.vercel.app/api?username=me-sajal&count_private=true&show_icons=true&theme=tokyonight" alt="naween321"/>
-  <img align="right" src="https://github-readme-stats-me-sajal.vercel.app/api/top-langs/?username=me-sajal&theme=tokyonight&hide_langs_below=1"/>
-</p>
+
 <!--
 **me-sajal/me-sajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
