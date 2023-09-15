@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajal from Lalitpur, Nepal.
-- 👀 I’m interested in software development and machine learning.
-- 🌱 I’m currently learning ML for the computer vision, robotics and cyber security.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Quality Assurance, and Software Development.
+- 🤔 I’m looking for job placement. 
 - 📫 contact - sajalrokka321@gmail.com
 
 
