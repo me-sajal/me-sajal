@@ -2,6 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Quality Assurance, and Software Development.
 - 🤔 I’m looking for job placement. 
 - 📫 contact - sajalrokka321@gmail.com
+- 🔍 Find me on - sajalrokka.com.np
 
 
 <!--
